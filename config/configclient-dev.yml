@@ -1,6 +1,6 @@
 foo: foo version 1
 server:
-  port: 8071
+  port: 8072
 eureka:
   client:
     serviceUrl:
